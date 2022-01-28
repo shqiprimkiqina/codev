@@ -166,7 +166,7 @@
     window.addEventListener('load', () => {
       setTimeout(() => {
         preloader.remove()
-      }, 100);
+      }, 50);
     });
   }
 
